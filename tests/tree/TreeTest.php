@@ -1,6 +1,6 @@
 <?php
 
-namespace mphp\tool\tests\tree;
+namespace mphp\tooltests\tree;
 
 use mphp\tool\tree\Tree;
 use PHPUnit\Framework\TestCase;

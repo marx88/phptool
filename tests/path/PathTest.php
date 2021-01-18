@@ -1,6 +1,6 @@
 <?php
 
-namespace mphp\tool\tests\path;
+namespace mphp\tooltests\path;
 
 use mphp\tool\path\Path;
 use PHPUnit\Framework\TestCase;

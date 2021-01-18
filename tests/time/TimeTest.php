@@ -1,6 +1,6 @@
 <?php
 
-namespace mphp\tool\tests\time;
+namespace mphp\tooltests\time;
 
 use mphp\tool\time\Time;
 use PHPUnit\Framework\TestCase;
